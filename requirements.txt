@@ -1,0 +1,11 @@
+# Core numerical library
+numpy>=1.24,<2.0
+
+# OpenCV for computer vision
+opencv-python
+
+# MediaPipe for ML solutions
+mediapipe==0.10.21
+
+# Optional: for plotting / debugging
+matplotlib
