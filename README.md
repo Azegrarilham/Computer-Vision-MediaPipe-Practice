@@ -25,9 +25,6 @@ a polished or production-ready application.
 
 ---
 
-
----
-
 ## Notes
 
 - This is a **learning-focused repository**
